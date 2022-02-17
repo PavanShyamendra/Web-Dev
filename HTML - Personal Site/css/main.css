@@ -1,0 +1,20 @@
+body{
+  background-color:#BFFFF0;
+}
+hr{
+  border-style: dotted;
+  border-width: 10px 0 0 0;
+  color: #495371;
+  width: 20%;
+
+}
+h1{
+  color: #03045E;
+}
+img{
+  border-radius: 50%;
+}
+
+#hhh{
+  color: red;
+}
